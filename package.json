@@ -2,6 +2,10 @@
   "name": "react-digital-wallet-macava",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "10.15.1",
+    "yarn": "1.16.0"
+  },
   "dependencies": {
     "@emotion/core": "^10.0.10",
     "@reach/router": "^1.2.1",
